@@ -18,12 +18,16 @@
 
 ---
 
-
 🏁 **`Zing`使用了 `upx` 压缩，如有防病毒软件报毒，请仔细核对文件Hash。**
 
 🏁 **[必读 : 使用手册](https://github.com/feitu-dev/Zing/wiki)**
 
+> ### Windows平台安装WebView2:
+> https://user-images.githubusercontent.com/106235870/183592102-94e0277f-cc67-409b-98fe-9ce802be28bb.mp4
+
 🏁 **[Releases](https://github.com/feitu-dev/Zing/releases)包含各版本VT报告及文件Hash。**
+
+
 
 
 ### 声明
