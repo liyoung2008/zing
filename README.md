@@ -35,7 +35,7 @@
 
 #### 使用交流
 
-* WeChat : `feitu-dev`
+![](https://raw.githubusercontent.com/feitu-dev/Zing/main/images/wechat.png "")
 
 ### 协议
 
